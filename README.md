@@ -99,6 +99,4 @@ This project showcases pure HTML/CSS capabilities. Feel free to:
 
 This project is open source and available for educational purposes.
 
----
 
-**Ready to explore space?** 🌌 Open `index.html` and begin your cosmic journey!
